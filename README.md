@@ -1,6 +1,6 @@
 # Giáo dục trí tuệ nhân tạo cho học sinh THPT
 
-Bộ tài liệu dạy học nội dung giáo dục trí tuệ nhân tạo (AI) cho lớp 10, 11, 12, năm học 2026-2027, do Phạm Văn Tú biên soạn. Chia sẻ để đồng nghiệp xem, tải về và tham khảo. Được sử dụng giảng dạy cùng môn tin học tại https://montinhoc.vn
+Bộ tài liệu dạy học nội dung giáo dục trí tuệ nhân tạo (AI) cho lớp 10, 11, 12, từ năm học 2026-2027, do Phạm Văn Tú biên soạn. Chia sẻ để đồng nghiệp xem, tải về và tham khảo. Được sử dụng giảng dạy cùng môn tin học tại https://montinhoc.vn
 
 ## Trong kho này có gì
 
