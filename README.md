@@ -6,7 +6,7 @@ Bộ tài liệu dạy học nội dung giáo dục trí tuệ nhân tạo (AI) 
 
 | Thư mục | Nội dung | Số tệp |
 |---|---|---|
-| [01-lo-trinh](01-lo-trinh) | Kế hoạch giáo dục AI của trường, lộ trình 36 bài học | 4 |
+| [01-lo-trinh](01-lo-trinh) | Kế hoạch giáo dục AI của trường, lộ trình 36 bài học | 1 |
 | [02-ke-hoach-bai-day](02-ke-hoach-bai-day) | Kế hoạch bài dạy từng tiết (Word) | 36 |
 | [03-slide-bai-giang](03-slide-bai-giang) | Slide bài giảng từng tiết (PowerPoint, 16 slide, có ghi chú giáo viên) | 36 |
 | [04-tai-lieu-hoc-tap](04-tai-lieu-hoc-tap) | Tài liệu học tập cho học sinh, mỗi khối một tập (PDF) | 3 |
