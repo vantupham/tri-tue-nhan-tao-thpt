@@ -19,7 +19,7 @@ Bộ tài liệu dạy học nội dung giáo dục trí tuệ nhân tạo (AI) 
 
 ## Lớp 10
 
-Tài liệu học tập: [Tập tài liệu Khối 10](04-tai-lieu-hoc-tap/Tai_lieu_hoc_tap_Giao_duc_AI_Khoi_10.docx)
+Tài liệu học tập: [Tập tài liệu Khối 10](04-tai-lieu-hoc-tap/Tai_lieu_hoc_tap_Giao_duc_AI_Khoi_10.pdf)
 
 | Bài | Tên bài | Kế hoạch bài dạy | Slide |
 |---|---|---|---|
@@ -38,7 +38,7 @@ Tài liệu học tập: [Tập tài liệu Khối 10](04-tai-lieu-hoc-tap/Tai_l
 
 ## Lớp 11
 
-Tài liệu học tập: [Tập tài liệu Khối 11](04-tai-lieu-hoc-tap/Tai_lieu_hoc_tap_Giao_duc_AI_Khoi_11.docx)
+Tài liệu học tập: [Tập tài liệu Khối 11](04-tai-lieu-hoc-tap/Tai_lieu_hoc_tap_Giao_duc_AI_Khoi_11.pdf)
 
 | Bài | Tên bài | Kế hoạch bài dạy | Slide |
 |---|---|---|---|
@@ -57,7 +57,7 @@ Tài liệu học tập: [Tập tài liệu Khối 11](04-tai-lieu-hoc-tap/Tai_l
 
 ## Lớp 12
 
-Tài liệu học tập: [Tập tài liệu Khối 12](04-tai-lieu-hoc-tap/Tai_lieu_hoc_tap_Giao_duc_AI_Khoi_12.docx)
+Tài liệu học tập: [Tập tài liệu Khối 12](04-tai-lieu-hoc-tap/Tai_lieu_hoc_tap_Giao_duc_AI_Khoi_12.pdf)
 
 | Bài | Tên bài | Kế hoạch bài dạy | Slide |
 |---|---|---|---|
