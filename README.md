@@ -1,6 +1,7 @@
 # Giáo dục trí tuệ nhân tạo cho học sinh THPT
 
 Bộ tài liệu dạy học nội dung giáo dục trí tuệ nhân tạo (AI) cho lớp 10, 11, 12
+![Lượt tải](https://img.shields.io/github/downloads/vantupham/tri-tue-nhan-tao-thpt/total?label=l%C6%B0%E1%BB%A3t%20t%E1%BA%A3i&color=1B2A6B)
 
 ## Trong kho này có gì
 
