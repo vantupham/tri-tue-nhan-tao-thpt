@@ -4,8 +4,6 @@ Bộ tài liệu dạy học nội dung giáo dục trí tuệ nhân tạo (AI) 
 
 [![Lượt tải](https://img.shields.io/github/downloads/vantupham/tri-tue-nhan-tao-thpt/total?label=L%C6%B0%E1%BB%A3t%20t%E1%BA%A3i&color=0F4C5C)](https://github.com/vantupham/tri-tue-nhan-tao-thpt/releases/latest)
 
-**[⬇️ Tải toàn bộ tài liệu (tệp zip)](https://github.com/vantupham/tri-tue-nhan-tao-thpt/releases/latest/download/bo-tai-lieu-giao-duc-ai-thpt.zip)**
-
 ## Trong kho này có gì
 
 | Thư mục | Nội dung | Số tệp |
